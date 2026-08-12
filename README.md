@@ -1,9 +1,8 @@
-# Hello <3 I'm George
+# Hello, I'm George
 
 I love making things.
 
-Design Engineer developing computational tools for physical systems —
-geometry processing, simulation workflows, additive manufacturing, and engineering applications.
+Design Engineer developing computational tools for physical systems, with experience in geometry processing, simulation workflows, additive manufacturing, and engineering applications.
 
 ## 📁 Featured projects
 
@@ -32,5 +31,3 @@ optimization plugin for Rhino/Grasshopper, with a C++ solver core
 - Email: [georgekote@georgekote.com](mailto:georgekote@georgekote.com)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/george-kote-268841207)
 - Portfolio: [georgekote.com](https://georgekote.com)
-
-# Design <3 Engineering
