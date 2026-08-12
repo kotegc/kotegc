@@ -38,6 +38,6 @@ optimization plugin for Rhino/Grasshopper, with a C++ solver core
 
 ## Contact
 
-- Email: `[pending — you provide]`
-- LinkedIn: `[pending — you provide]`
-- Portfolio: `[pending — you provide]`
+- Email: [georgekote@georgekote.com](mailto:georgekote@georgekote.com)
+- LinkedIn: [linkedin.com/in/george-kote-268841207](https://www.linkedin.com/in/george-kote-268841207)
+- Portfolio: [georgekote.com](https://georgekote.com)
