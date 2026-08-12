@@ -1,43 +1,36 @@
-# George
+# Hello <3 I'm George
+
+I love making things.
 
 Design Engineer developing computational tools for physical systems —
-geometry processing, simulation workflows, additive manufacturing, and
-engineering applications.
+geometry processing, simulation workflows, additive manufacturing, and engineering applications.
 
-I treat products as systems problems: work spans from interaction
-design and user-facing heuristics down through electronics and
-firmware, and I pick up whatever a project actually requires. I build
-physical systems and the tooling that automates and reproduces them.
+## 📁 Featured projects
 
-## Featured projects
-
-**[Design Philosophy](PHILOSOPHY.md)** — how I approach building
-physical systems and the tools behind them. *(full writeup in
-progress)* — start here for the strategic version before the code.
+**[Design Philosophy](PHILOSOPHY.md)** — Start here to learn how I approach building physical systems and the tools behind them.
 
 **[NXYZ](https://github.com/kotegc/NXYZ)** — Handheld synthesizer
 built on a dual-MCU embedded architecture (ESP32-S3 + Daisy Seed).
 Spans interaction-design research, mechanical/industrial design, PCB
-design, and firmware — one project, full stack.
+design, and firmware. Full stack hardware developement
 
 **[Zandvoort aan Zee](https://github.com/kotegc/Zandfoort_aan_Zee)** —
-Computational-design study translating naturally occurring
-sand-ripple geometry into pattern-formation models and a G-code
-toolpath for 3D-printed tiles.
+Explores naturally ocurring geometric structure, and demonstrates several computational methods for modeling them, resulting in a physical architectural object.
 
 **[Toplet](https://github.com/kotegc/Toplet)** — Voxel-based topology
 optimization plugin for Rhino/Grasshopper, with a C++ solver core
-(SIMP method, inspired by Sigmund's Top99).
 
-## Background
+## 📐 Background
 
-- Computational design & geometry processing — Grasshopper, Rhino, Python
-- Embedded systems & firmware — C/C++, PlatformIO, dual-MCU architectures
-- Mechanical/industrial design, CAD, additive manufacturing
-- Simulation & engineering workflows
+- Industrial Product Design for Fortune 500 firms
+- Mechanical Engineering and fullstack hardware engineering
+- Advanced CAD Surfacing — Rhino, Alias, Solidworks
+- Integrated Computational Engineering and Design Workflows — Grasshopper, Python, C#
 
-## Contact
+## 📬 Contact
 
 - Email: [georgekote@georgekote.com](mailto:georgekote@georgekote.com)
-- LinkedIn: [linkedin.com/in/george-kote-268841207](https://www.linkedin.com/in/george-kote-268841207)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/george-kote-268841207)
 - Portfolio: [georgekote.com](https://georgekote.com)
+
+# Design <3 Engineering
