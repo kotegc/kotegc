@@ -16,9 +16,6 @@ design, and firmware. Full stack hardware developement
 **[Zandvoort aan Zee](https://github.com/kotegc/Zandfoort_aan_Zee)** —
 Explores naturally ocurring geometric structure, and demonstrates several computational methods for modeling them, resulting in a physical architectural object.
 
-**[Toplet](https://github.com/kotegc/Toplet)** — Voxel-based topology
-optimization plugin for Rhino/Grasshopper, with a C++ solver core
-
 ## 📐 Background
 
 - Industrial Product Design for Fortune 500 firms
