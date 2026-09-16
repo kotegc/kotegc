@@ -4,9 +4,9 @@ I love making things.
 
 Design Engineer developing computational tools for physical systems, with experience in geometry processing, simulation workflows, additive manufacturing, and engineering applications.
 
-## 📁 Featured projects
-
 **[Design Philosophy](PHILOSOPHY.md)** — Start here to learn how I approach building physical systems and the tools behind them.
+
+## 📁 Featured projects
 
 **[NXYZ](https://github.com/kotegc/NXYZ)** — Handheld synthesizer
 built on a dual-MCU embedded architecture (ESP32-S3 + Daisy Seed).
